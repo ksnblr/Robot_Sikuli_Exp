@@ -5,6 +5,7 @@ Test Setup        Add Needed Image Path
 Test Template     Open Notepad and Try to Edit
 Library           SikuliLibrary
 #Added from Master
+#Added from development
 
 *** Variables ***
 ${CUR_DIR} =  C:\\users\\XKK\\PycharmProjects\\sikli\\img
